@@ -1,0 +1,33 @@
+.section h1{
+    padding: 10px;
+    color: white;
+}
+
+.section img{
+    width: 1000px;
+    height: 300px;
+}
+
+nav .campeonato{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav .campeonato li{
+    position: relative;
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+nav .campeonato li a{
+    display: block;
+    padding: 10px;
+    background: black;
+    color: #c7c7c7;
+}
+
+nav .campeonato li a:hover{
+    color: #0cc000;
+}
